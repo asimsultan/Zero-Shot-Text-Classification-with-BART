@@ -1,0 +1,7 @@
+
+text,label
+"This is a positive statement.",1
+"This is a negative statement.",0
+"This is another positive statement.",1
+"This is yet another negative statement.",0
+"Neutral statement with no clear sentiment.",2
